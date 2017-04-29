@@ -1,4 +1,4 @@
-stoll// by: Zhiping
+// by: Zhiping
 
 #include <string>
 #include <vector>
